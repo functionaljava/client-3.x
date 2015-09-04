@@ -1,1 +1,1 @@
-# client-java6
+# client-3.x
